@@ -3,3 +3,6 @@ all:
 
 run: all 
 	./build/main_program
+
+clean: 
+	rm ./build/main_program
